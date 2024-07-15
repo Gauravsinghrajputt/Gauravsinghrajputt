@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gauravkumaramtics@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaurav-singh-986947293/overlay/1718773257848/single-media-viewer/?profileId=ACoAAEcnFLYBvXqOvXjm2zLnrSj-JSPHbNzR1dM](https://www.linkedin.com/in/gaurav-singh-rajputt/)
+- 📄 Know about my experiences (https://www.linkedin.com/in/gaurav-singh-rajputt/)
 
 - ⚡ Fun fact **Good At Studies**
 
