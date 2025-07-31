@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsinghrajputt" alt="gauravsinghrajputt" /></a> </p>
 
-- 🔭 I am learn port forwarding 
+- 🔭 I am learning about port forwarding concept
 
 - 🌱 I’m currently learning **React. Js,JavaScript**
 
