@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">A passionate frontend Designer from India</h3>
+<h3 align="center"> I am cybersecurity student </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsinghrajputt&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsinghrajputt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsinghrajputt" alt="gauravsinghrajputt" /></a> </p>
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🔭 I am learn port forwarding 
 
 - 🌱 I’m currently learning **React. Js,JavaScript**
 
-- 👯 I’m looking to collaborate on **Mern Stack**
+- 👯 I’m looking to open sources projects related to the cybersecurity
 
 - 📫 How to reach me **gauravkumaramtics@gmail.com**
 
-- 📄 Know about my experiences (https://www.linkedin.com/in/gaurav-singh-rajputt/)
+- 📄 Know about me more (https://www.linkedin.com/in/gaurav-singh-rajputt/)
 
 - ⚡ Fun fact **Good At Studies**
 
