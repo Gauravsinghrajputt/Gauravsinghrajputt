@@ -11,6 +11,8 @@
 
 - 👯 I’m looking to open sources projects related to the cybersecurity
 
+- Check my portfolio and connect with me : https://gauravsinghrajputt.github.io/
+
 - 📫 How to reach me **gauravkumaramtics@gmail.com**
 
 - 📄 Know about me more (https://www.linkedin.com/in/gaurav-singh-rajputt/)
